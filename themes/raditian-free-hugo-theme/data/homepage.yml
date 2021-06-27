@@ -220,8 +220,8 @@ contact:
   email:
     title: "Email"
     email: '<a href="mailto:raghulmohankumar@gmail.com">raghulmohankumar@gmail.com</a>'
-  address:
-    title: "Address"
+ # address:
+ #   title: "Address"
     address: "89, New Street<br />Fredericton, New Brunswick, E3B1P3"
   button:
     icon: "icon-mail-fill"
