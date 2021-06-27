@@ -1,4 +1,5 @@
 baseURL = "https://raghulmohankumar.github.io"
+title = "Raghul Mohankumar"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
