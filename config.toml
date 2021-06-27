@@ -1,4 +1,4 @@
-baseURL = "https://raghulmohankumar.github.io"
+baseURL = “” to baseurl = “/”
 title = "Raghul Mohankumar"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
