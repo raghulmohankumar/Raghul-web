@@ -47,6 +47,11 @@ building relationships across business lines."
 #    - icon: "yelp"
 #      URL: "https://www.yelp.com/"
 
+    - logo:
+        x: "img/who-am-i/title"
+        _2x: "img/who-am-i/title"
+      alt: "logo"
+
 # about
 about:
   enable: true
@@ -222,7 +227,7 @@ contact:
     email: '<a href="mailto:raghulmohankumar@gmail.com">raghulmohankumar@gmail.com</a>'
  # address:
  #   title: "Address"
-    address: "89, New Street<br />Fredericton, New Brunswick, E3B1P3"
+ #   address: "89, New Street<br />Fredericton, New Brunswick, E3B1P3"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
