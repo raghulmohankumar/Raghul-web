@@ -52,13 +52,13 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p align="justify">
-    I am back, after pursuing a Masters Degree in Canada. Learning was great, the design 
+        I am back, after pursuing a Masters Degree in Canada. Learning was great, the design 
     and simulation skills have been enriched, along with the learning the Data Analytics through 
     R Programming and started publishing the blogs. All-in-all, life has been good. 
     I hope life has been as good for all of you.
     </p>
     <p class="lead">
-    My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development and Components selection, as well as
+        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development and Components selection, as well as
     co-ordinating with design & front-end teams. I enjoy designing and developing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
     </p>'
   button:
