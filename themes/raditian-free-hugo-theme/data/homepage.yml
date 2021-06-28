@@ -83,21 +83,20 @@ education:
       degree: "Bachelor of Engineering (B.E), Electrical and Electronics Engineering"
 
 #skillset
+# education
 skillset:
   enable: true
-  title: "Skillset"
+  title: "Engineering Skillset"
   items:
-
-    -skill: "Engineering Softwares"
-    - AutoCAD Electrical
-    - MATLAB
-    - Simulink 
-    - MathCAD
-    - VariPDM
-    - EPlan
-    - SAP
-    - Vertex ED19
-    - Microsoft Office Tools
+    - university: "AutoCAD Electrical"
+    - university: "MATLAB"
+    - university: "Simulink"
+    - university: "MathCAD"
+    - university: "VariPDM"
+    - university: "EPlan"
+    - university: "SAP"
+    - university: "Vertex ED19"
+    - university: "Microsoft Office Tools"
 
 # experience
 experience:
