@@ -47,11 +47,6 @@ building relationships across business lines."
 #    - icon: "yelp"
 #      URL: "https://www.yelp.com/"
 
-    - logo:
-        x: "img/who-am-i/title"
-        _2x: "img/who-am-i/title"
-      alt: "logo"
-
 # about
 about:
   enable: true
@@ -86,6 +81,22 @@ education:
     - university: "Anna University"
       year: "2008-2012"
       degree: "Bachelor of Engineering (B.E), Electrical and Electronics Engineering"
+
+#skillset
+skillset:
+  enable: true
+  title: "Skillset"
+  items:
+    - title: Engineering Softwares
+    AutoCAD Electrical
+    MATLAB
+    Simulink 
+    MathCAD
+    VariPDM
+    EPlan
+    SAP
+    Vertex ED19
+    Microsoft Office Tools
 
 # experience
 experience:
