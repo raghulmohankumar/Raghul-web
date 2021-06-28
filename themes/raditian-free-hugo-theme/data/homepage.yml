@@ -89,12 +89,14 @@ skillset:
   items:
     - university: "AutoCAD Electrical"   
     - university: "MathCAD"
-    - university: "VariPDM"   
+    - university: "MATLAB"
+    - university: "Simulink"
+    - university: "R Programming"   
     - university: "EPlan"
-    - university: "Vertex ED19"   
+    - university: "Microsoft Office"
     - university: "SAP"
-    - university: "AutoCAD Electrical"   
-    - university: "Microsoft Office Tools"
+    - university: "VariPDM"   
+    - university: "Vertex ED19"  
      
 
 
