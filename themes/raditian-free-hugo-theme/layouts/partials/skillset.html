@@ -3,9 +3,9 @@
     <div class="container">
         <div class="row rad-fade-down">
             <div class="col-12">
-               {{ .Site.Data.homepage.skillset.title }}
+                <h2>{{ .Site.Data.homepage.skillset.title }}</h2>
                 <div class="row pt-2 pt-md-4">
-                    {{ range .Site.Data.homepage.skillset.items }}
+                   <h3>{{ range .Site.Data.homepage.skillset.items }}<h3>
                     <div class="col-12 col-sm-6 mb-4 mb-sm-0">
                         <div class="skillset">
                            <div class="skillset__date">{{ .year }}</div>
