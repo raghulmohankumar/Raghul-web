@@ -8,7 +8,9 @@
                     {{ range .Site.Data.homepage.skillset.items }}
                     <div class="col-12 col-sm-6 mb-4 mb-sm-0">
                         <div class="skillset">
+                           <div class="skillset__date">{{ .year }}</div>
                             <div class="skillset__title">{{ .university }}</div>
+                            <div class="skillset__degree">{{ .degree }}</div>
                         </div>
                     </div>
                     {{ end }}
