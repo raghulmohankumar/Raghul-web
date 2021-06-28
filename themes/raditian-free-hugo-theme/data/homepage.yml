@@ -3,6 +3,10 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
+  <style>
+body {
+text-align: justify}
+</style>
   description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specializing in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on
 building relationships across business lines."
   image:
