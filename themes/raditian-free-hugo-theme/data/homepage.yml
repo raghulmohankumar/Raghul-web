@@ -89,13 +89,21 @@ skillset:
   title: "Engineering Skillset"
   items:
     - university: "AutoCAD Electrical"
+    
     - university: "MATLAB"
+    
     - university: "Simulink"
+    
     - university: "MathCAD"
+    
     - university: "VariPDM"
+    
     - university: "EPlan"
+    
     - university: "SAP"
+    
     - university: "Vertex ED19"
+    
     - university: "Microsoft Office Tools"
 
 # experience
