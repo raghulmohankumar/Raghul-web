@@ -117,7 +117,7 @@ expertise:
 #excellence
 excellence:
   enable: true
-  title: "Design and Development Excellence"
+  title: "Excellence"
   items:
     - university: "--> Indiginisation of strain gauge load sensor"   
     - university: "--> Speed Indication Module for Human Rescue"
