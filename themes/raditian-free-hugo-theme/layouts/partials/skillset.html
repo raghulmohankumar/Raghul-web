@@ -2,14 +2,14 @@
 <section class="section section--border-bottom rad-animation-group">
     <div class="container">
         <div class="row rad-fade-down">
-            <div class="col-12">
-                <h2>{{ .Site.Data.homepage.skillset.title }}</h2>
-                <div class="row pt-2 pt-md-4">
+           <div class="col-12 col-sm-6 mt-5 mt-sm-0">
+                {{ range .Site.Data.homepage.skillset.items }}
+                <div class="skillset">
                     {{ range .Site.Data.homepage.skillset.items }}
                     <div class="col-12 col-sm-6 mb-4 mb-sm-0">
                         <div class="skillset">
                            <div class="skillset__date">{{ .year }}</div>
-                            <div class="skillset__title">{{ .university }}<br></div>
+                            <div class="skillset__title">{{ .university }}</div>
                             <div class="skillset__degree">{{ .degree }}</div>
                         </div>
                     </div>

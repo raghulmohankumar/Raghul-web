@@ -86,7 +86,7 @@ education:
 # education
 skillset:
   enable: true
-  title: "Engineering Skillset"
+  title: "Software Skillset"
   items:
     - university: "AutoCAD Electrical"
     
