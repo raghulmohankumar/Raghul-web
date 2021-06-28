@@ -119,10 +119,10 @@ excellence:
   enable: true
   title: "Excellence"
   items:
-    - university: "--> Indiginisation of strain gauge load sensor"   
-    - university: "--> Speed Indication Module for Human Rescue"
-    - university: "--> LED based energy efficient interior lighting"
-    - university: "--> Arduino based Child Trap Monitoring system"
+    - university: "Indiginisation of strain gauge load sensor"   
+    - university: "Speed Indication Module for Human Rescue"
+    - university: "LED based energy efficient interior lighting"
+    - university: "Arduino based Child Trap Monitoring system"
   
     
 # experience
