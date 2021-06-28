@@ -87,8 +87,8 @@ skillset:
   enable: true
   title: "Skillset"
   items:
-    -type: "Engineering Softwares"
-    -skill:
+
+    -skill: "Engineering Softwares"
     - AutoCAD Electrical
     - MATLAB
     - Simulink 
