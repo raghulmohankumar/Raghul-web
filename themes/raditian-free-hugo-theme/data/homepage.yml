@@ -51,13 +51,13 @@ building relationships across business lines."
 about:
   enable: true
   title: "Who am I?"
-  content: '<p class="lead">
+  content: <p class="lead" align="justify" style = "text-indent:1cm">
         I am back, after pursuing a Masters Degree in Canada. Learning was great, the design 
     and simulation skills have been enriched, along with the learning the Data Analytics through 
     R Programming and started publishing the blogs. All-in-all, life has been good. 
     I hope life has been as good for all of you.
     </p>
-    <p class="lead">
+    <p class="lead" align="justify" style = "text-indent:1cm">
         My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development and Components selection, as well as
     co-ordinating with design & front-end teams. I enjoy designing and developing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
     </p>'
@@ -98,13 +98,38 @@ skillset:
     - university: "VariPDM"   
     - university: "Vertex ED19"  
      
+#expertise
+expertise:
+  enable: true
+  title: "Engineering Skillset"
+  items:
+    - university: "Electrical Machines"   
+    - university: "Electrical Circuit Design"
+    - university: "Wiring Harness Design"
+    - university: "Lighting Development"
+    - university: "Electrical System Integration"   
+    - university: "VVVF Electric Drives"
+    - university: "Prototyping and Piloting"
+    - university: "Electrical Components Selection"
+    - university: "Failure and Risk Analysis"   
+    - university: "Time Management and Prioritisation"     
 
-
+#excellence
+excellence:
+  enable: true
+  title: "Design and Development Excellence"
+  items:
+    - university: "--> Indiginisation of strain gauge load sensor"   
+    - university: "--> Speed Indication Module for Human Rescue"
+    - university: "--> LED based energy efficient interior lighting"
+    - university: "--> Arduino based Child Trap Monitoring system"
+  
+    
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 8+ years of extensive practical and academic experience with companies in a competitive and international context. I design & develop electrical products to help businesses and improve people's lives."
+  description: "Over 8+ years of extensive design and development experience with companies in a competitive and international context. I design & develop electrical products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"

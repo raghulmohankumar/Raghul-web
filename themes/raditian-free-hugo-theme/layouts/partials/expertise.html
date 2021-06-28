@@ -1,0 +1,21 @@
+{{ if .Site.Data.homepage.expertise.enable }}
+<section class="section section--border-bottom rad-animation-group">
+    <div class="container">
+        <div class="row rad-fade-down">
+            <div class="col-12">
+                <h2>{{ .Site.Data.homepage.expertise.title }}</h2>
+                <div class="row pt-2 pt-md-4">
+                    {{ range .Site.Data.homepage.expertise.items }}
+                    <div class="col-12 col-sm-6 mb-4 mb-sm-0">
+                        <div class="expertise">
+                            
+                            <div class="education__title">{{ .university }}</div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
