@@ -86,17 +86,17 @@ education:
 skillset:
   enable: true
   title: "Skillset"
+  subtitle: "Engineering Softwares"
   items:
-    - title: Engineering Softwares
-    AutoCAD Electrical
-    MATLAB
-    Simulink 
-    MathCAD
-    VariPDM
-    EPlan
-    SAP
-    Vertex ED19
-    Microsoft Office Tools
+    - AutoCAD Electrical
+    - MATLAB
+    - Simulink 
+    - MathCAD
+    - VariPDM
+    - EPlan
+    - SAP
+    - Vertex ED19
+    - Microsoft Office Tools
 
 # experience
 experience:
