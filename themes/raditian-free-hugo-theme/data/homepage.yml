@@ -259,13 +259,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+1(681)823-8483"
+    number: "+1(506)897-3166"
   email:
     title: "Email"
     email: '<a href="mailto:raghulmohankumar@gmail.com">raghulmohankumar@gmail.com</a>'
  # address:
  #   title: "Address"
- #   address: "89, New Street<br />Fredericton, New Brunswick, E3B1P3"
+ #   address: "615, Windsor Street<br />Fredericton, New Brunswick, E3B4G3"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
