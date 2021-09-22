@@ -3,8 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specializing in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on
-building relationships across business lines."
+  description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specializing in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on building relationships across business lines."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcasew@2x.png"
@@ -52,14 +51,10 @@ about:
   enable: true
   title: "Who am I?"
   content: <p class="lead" align="justify" style = "text-indent:1cm">
-        I am back, after pursuing a Masters Degree in Canada. Learning was great, the design 
-    and simulation skills have been enriched, along with the learning the Data Analytics through 
-    R Programming and started publishing the blogs. All-in-all, life has been good. 
-    I hope life has been as good for all of you.
+        I am back, after pursuing a Masters Degree in the stream of Electrical Engineering in Canada. Learning was great, the design and simulation skills have been enriched, along with the learning the Data Analytics through R Programming and started publishing the blogs. All-in-all, life has been good. I hope life has been as good for all of you.
     </p>
     <p class="lead" align="justify" style = "text-indent:1cm">
-        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development and Components selection, as well as
-    co-ordinating with design & front-end teams. I enjoy designing and developing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
+        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing and developing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -76,7 +71,7 @@ education:
   items:
     - university: "University of New Brunswick"
       year: "2021-2022"
-      degree: "Master of Electrical Engineering(M.Eng), Electrical Engineering"
+      degree: "Master of Engineering(M.Eng), Electrical Engineering"
 
     - university: "Anna University"
       year: "2008-2012"
@@ -92,10 +87,10 @@ skillset:
     - university: "MATLAB"
     - university: "Simulink"
     - university: "R Programming"   
-    - university: "EPlan"
     - university: "Microsoft Office"
     - university: "SAP"
-    - university: "VariPDM"   
+    - university: "VariPDM"  
+    - university: "VariClient"  
     - university: "Vertex ED19"  
      
 #expertise
