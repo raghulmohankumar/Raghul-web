@@ -61,7 +61,7 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/raghul-mohankumar-51811763/"
   image:
-    x: "img/who-am-i/logo.png"
+    x:    "img/who-am-i/logo.png"
     _2x: "img/who-am-i/logo.png"
 
 # education
