@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specializing in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on building relationships across business lines."
+  description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specialization in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on building relationships across business lines."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcasew@2x.png"
@@ -51,10 +51,10 @@ about:
   enable: true
   title: "Who am I?"
   content: <p class="lead" align="justify" style = "text-indent:1cm">
-        I am back, after pursuing a Master Degree in the stream of Electrical Engineering in Canada. Learning was great, the design and simulation skills have been enriched, along with the learning the Data Analytics through R Programming and started publishing the blogs. All-in-all, life has been good. I hope life has been as good for all of you.
+        I am back, after pursuing a Master Degree in the stream of Electrical Engineering in Canada. Learning was great, the design, analytical and simulation skills have been enriched, along with the learning the Data Analytics through R Programming and started publishing the blogs. All-in-all, life has been good. I hope life has been as good for all of you.
     </p>
     <p class="lead" align="justify" style = "text-indent:1cm">
-        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing and developing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
+        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -92,6 +92,13 @@ skillset:
     - university: "VariPDM"  
     - university: "VariClient"  
     - university: "Vertex ED19"  
+    - university: "OrCAD Capture"   
+    - university: "PCB Editor & Pspice"
+    - university: "EngCalc"
+    - university: "ETAP"
+    - university: "Saber RD"   
+    - university: "Source Insight"
+  
      
 #expertise
 expertise:
@@ -99,16 +106,24 @@ expertise:
   title: "Engineering Skillset"
   items:
     - university: "Electrical Machines"   
+    - university: "Components Selection"
+    - university: "Variable Frequency Drives"
+    - university: "Cable Sizing"
+    - university: "Lighting Design"   
     - university: "Electrical Circuit Design"
     - university: "Wiring Harness Design"
-    - university: "Lighting Development"
-    - university: "Electrical System Integration"   
-    - university: "VVVF Electric Drives"
-    - university: "Prototyping and Piloting"
-    - university: "Electrical Components Selection"
-    - university: "Failure and Risk Analysis"   
-    - university: "Time Management and Prioritisation"     
-
+    - university: "Value Addition / Value Engineering"
+    - university: "BOM Creation"   
+    - university: "Product Analysis & Development"     
+    - university: "Failure Analysis" 
+    - university: "Risk Analysis"
+    - university: "Hardware Testing"
+    - university: "FRACAS & DFMEA"   
+    - university: "Supplier Selection & Follow-up"
+    - university: "Product Life-cycle management"
+    - university: "Product data management"
+    - university: "Product change management"   
+    
 #excellence
 excellence:
   enable: true
@@ -124,7 +139,7 @@ excellence:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 8+ years of extensive design and development experience with companies in a competitive and international context. I design & develop electrical products to help businesses and improve people's lives."
+  description: "Over 8 years of extensive product design, development and management experience with companies in a competitive and international context. I design, develop and manage products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -135,6 +150,11 @@ experience:
     URL: "resume.pdf"
 
   items:
+    
+    - title: "Research Assitant (Work - Study)"
+      company: "THE UNIVERSITY OF NEW BRUNSWICK"
+      duration: "Oct 2021 - Dec 2021"
+      
     - title: "Sr. Electrical Engineer"
       company: "KONE"
       duration: "Oct 2018 - Feb 2021"
@@ -252,15 +272,15 @@ contact:
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+1(506)897-3166"
+ # phone:
+ #   title: "Phone Number"
+ #   number: "+1(506)897-3166"
   email:
     title: "Email"
     email: '<a href="mailto:raghulmohankumar@gmail.com">raghulmohankumar@gmail.com</a>'
  # address:
  #   title: "Address"
- #   address: "615, Windsor Street<br />Fredericton, New Brunswick, E3B4G3"
+ #   address: "B-615, Windsor Street<br />Fredericton, New Brunswick, E3B4G3"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
