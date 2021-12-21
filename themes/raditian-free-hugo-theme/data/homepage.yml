@@ -112,7 +112,7 @@ expertise:
     - university: "Lighting Design"   
     - university: "Electrical Circuit Design"
     - university: "Wiring Harness Design"
-    - university: "Value Addition / Value Engineering"
+    - university: "VA/VE"
     - university: "BOM Creation"   
     - university: "Product Analysis & Development"     
     - university: "Failure Analysis" 
@@ -121,8 +121,6 @@ expertise:
     - university: "FRACAS & DFMEA"   
     - university: "Supplier Selection & Follow-up"
     - university: "Product Life-cycle management"
-    - university: "Product data management"
-    - university: "Product change management"   
     
 #excellence
 excellence:
