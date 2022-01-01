@@ -70,7 +70,7 @@ education:
   title: "Education"
   items:
     - university: "University of New Brunswick"
-      year: "2021-2022"
+      year: "2021-2021"
       degree: "Master of Engineering(M.Eng), Electrical Engineering"
 
     - university: "Anna University"
@@ -95,11 +95,9 @@ skillset:
     - university: "OrCAD Capture"   
     - university: "PCB Editor & Pspice"
     - university: "EngCalc"
-    - university: "ETAP"
     - university: "Saber RD"   
     - university: "Source Insight"
-  
-     
+    
 #expertise
 expertise:
   enable: true
@@ -125,12 +123,12 @@ expertise:
 #excellence
 excellence:
   enable: true
-  title: "Excellence"
+  title: "Achievements"
   items:
-    - university: "Indiginisation of strain gauge load sensor"   
-    - university: "Speed Indication Module for Human Rescue"
-    - university: "LED based energy efficient interior lighting"
-    - university: "Arduino based Child Trap Monitoring system"
+    - university: "Best Project Award"   
+    - university: "Innohack Finalist"
+    - university: "Extra Miler Award"
+    - university: "Data Visualization Poster Design - Runner Up"
   
     
 # experience
