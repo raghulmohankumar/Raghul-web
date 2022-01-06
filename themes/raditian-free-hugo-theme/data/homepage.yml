@@ -142,7 +142,7 @@ experience:
     URL: "https://www.linkedin.com/in/raghul-mohankumar-51811763/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
+    btnText: "Download My CV"
     URL: "resume.pdf"
 
   items:

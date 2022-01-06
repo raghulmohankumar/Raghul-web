@@ -37,7 +37,7 @@ theme = "raditian-free-hugo-theme"
   weight = 3
 
   [[menu.header]]
-  name = "Resume"
+  name = "CV"
   URL = "resume.pdf"
   weight = 4
 
