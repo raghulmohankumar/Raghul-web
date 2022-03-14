@@ -3,7 +3,8 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specialization in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on building relationships across business lines."
+  description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specialization in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on building relationships across business lines. As a recent update, I hold the Engineer-in-training (EIT) licensure from APEGS"
+  
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcasew@2x.png"
@@ -17,7 +18,7 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/raghul-mohankumar-51811763/"
+      URL: "https://www.linkedin.com/in/raghul-mohankumar-m-eng-eit-51811763/"
 
     - icon: "github"
       URL: "https://github.com/raghulmohankumar"
@@ -54,7 +55,7 @@ about:
         I am back, after pursuing a Master Degree in the stream of Electrical Engineering in Canada. Learning was great, the design, analytical and simulation skills have been enriched, along with the learning the Data Analytics through R Programming and started publishing the blogs. All-in-all, life has been good. I hope life has been as good for all of you.
     </p>
     <p class="lead" align="justify" style = "text-indent:1cm">
-        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
+        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development, Product Validation, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing, validating and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -139,13 +140,17 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/raghul-mohankumar-51811763/"
+    URL: "https://www.linkedin.com/in/raghul-mohankumar-m-eng-eit-51811763/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My CV"
     URL: "resume.pdf"
 
   items:
+    
+    - title: "Product Validation Engineer"
+      company: "REDLEN TECHNOLOGIES INC"
+      duration: "Feb 2022 - current"
     
     - title: "Research Assitant (Work - Study)"
       company: "THE UNIVERSITY OF NEW BRUNSWICK"
