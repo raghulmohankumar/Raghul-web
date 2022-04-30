@@ -37,8 +37,8 @@ theme = "raditian-free-hugo-theme"
   weight = 3
 
   [[menu.header]]
-  name = "CV"
-  URL = "resume.pdf"
+  name = "Photography"
+  URL = "https://500px.com/p/rahulmohankumar?view=photos"
   weight = 4
 
 
