@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "An active Electrical engineer with 8 years of extensive practical and academic experience in a competitive and international context. Analytical and professional specialization in new product development and engineering change management related to electrical architectures. A collaborative communicator focused on building relationships across business lines. As a recent update, I hold the Engineer-in-training (EIT) licensure from APEGS"
+  description: "An active Electrical engineer with 9 years of extensive practical and academic experience in a competitive and international context. A collaborative communicator focused on building relationships across business lines. As a recent update, I hold the Engineer-in-training (EIT) licensure from the Association of Professional Engineers and Geo-scientists of Saskatchewan (APEGS)"
   
   image:
     x: "img/showcase/showcase.png"
@@ -96,7 +96,7 @@ skillset:
     - university: "OrCAD Capture"   
     - university: "PCB Editor & Pspice"
     - university: "EngCalc"
-    - university: "Saber RD"   
+#   - university: "Saber RD"   
     - university: "Source Insight"
     
 #expertise
@@ -136,7 +136,7 @@ excellence:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 8 years of extensive product design, development and management experience with companies in a competitive and international context. I design, develop and manage products to help businesses and improve people's lives."
+  description: "Over 8 years of extensive product design, development and management experience with companies in a competitive and international context. The experience also includes analytical and professional specialization in new product development and engineering change management related to electrical architectures. I design, develop and manage products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -281,7 +281,7 @@ contact:
     email: '<a href="mailto:raghulmohankumar@gmail.com">raghulmohankumar@gmail.com</a>'
  # address:
  #   title: "Address"
- #   address: "B-615, Windsor Street<br />Fredericton, New Brunswick, E3B4G3"
+ #   address: "Suite - 2386, Azurite Crescent <br />Langford, British Columbia, V9B 0Z6"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
