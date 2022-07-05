@@ -140,7 +140,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/raghul-mohankumar-m-eng-eit-51811763/"
+    URL: "https://www.linkedin.com/in/raghul-mohankumar-eit-51811763/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My CV"
@@ -150,7 +150,7 @@ experience:
     
     - title: "Product Validation Engineer"
       company: "REDLEN TECHNOLOGIES INC"
-      duration: "Feb 2022 - current"
+      duration: "Feb 2022 - Jun 2022"
     
     - title: "Research Assitant (Work - Study)"
       company: "THE UNIVERSITY OF NEW BRUNSWICK"
