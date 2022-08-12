@@ -87,6 +87,7 @@ skillset:
     - university: "MathCAD"
     - university: "MATLAB"
     - university: "Simulink"
+    - university: "EPlan"
     - university: "R Programming"   
     - university: "Microsoft Office"
     - university: "SAP"
@@ -147,7 +148,10 @@ experience:
     URL: "resume.pdf"
 
   items:
-    
+    - title: "Intermediate Electrical Engineer - Product Development"
+      company: "Minesense Technologies Limited"
+      duration: "Aug 2022 - Till date"
+      
     - title: "Product Validation Engineer"
       company: "REDLEN TECHNOLOGIES INC"
       duration: "Feb 2022 - Jun 2022"
