@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "An active Electrical engineer with 9 years of extensive practical and academic experience in a competitive and international context. A collaborative communicator focused on building relationships across business lines. As a recent update, I hold the Engineer-in-training (EIT) licensure from the Association of Professional Engineers and Geo-scientists of Saskatchewan (APEGS)"
+  description: "An active Electrical engineer with 10 years of extensive practical and academic experience in a competitive and international context. A collaborative communicator focused on building relationships across business lines. As a recent update, I started taking the challenges in the mining industry through my new role as Intermediate Electrical Engineer in Minesense Technologies Ltd. I hold the Engineer-in-training (EIT) licensure from the Association of Professional Engineers and Geo-scientists of Saskatchewan (APEGS)"
   
   image:
     x: "img/showcase/showcase.png"
@@ -52,10 +52,10 @@ about:
   enable: true
   title: "Who am I?"
   content: <p class="lead" align="justify" style = "text-indent:1cm">
-        I am back, after pursuing a Master Degree in the stream of Electrical Engineering in Canada. Learning was great, the design, analytical and simulation skills have been enriched, along with the learning the Data Analytics through R Programming and started publishing the blogs. All-in-all, life has been good. I hope life has been as good for all of you.
+        I am an electrical engineer with a Master Degree in the stream of Electrical Engineering in Canada. I work as an intermediate electrical engineer in Vancouver, BC. The designing skills have been enriched through EPlan software for developing new products. All-in-all, life has been good. I hope life has been as good for all of you.
     </p>
     <p class="lead" align="justify" style = "text-indent:1cm">
-        My area of focus lies in Electrical Machines, Drives, Circuit Design, New Product Development, Product Validation, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing, validating and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
+        My area of focus lies in Wiring Harness, Electrical Machines, Drives, Circuit Design, New Product Development, Product Validation, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing, validating and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -83,11 +83,11 @@ skillset:
   enable: true
   title: "Software Skillset"
   items:
+    - university: "EPlan"
     - university: "AutoCAD Electrical"   
     - university: "MathCAD"
     - university: "MATLAB"
     - university: "Simulink"
-    - university: "EPlan"
     - university: "R Programming"   
     - university: "Microsoft Office"
     - university: "SAP"
@@ -137,7 +137,7 @@ excellence:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 8 years of extensive product design, development and management experience with companies in a competitive and international context. The experience also includes analytical and professional specialization in new product development and engineering change management related to electrical architectures. I design, develop and manage products to help businesses and improve people's lives."
+  description: "Over 9 years of extensive product design, development and management experience with companies in a competitive and international context. The experience also includes analytical and professional specialization in new product development and engineering change management related to electrical architectures. I design, develop and manage products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -148,8 +148,8 @@ experience:
     URL: "resume.pdf"
 
   items:
-    - title: "Intermediate Electrical Engineer - Product Development"
-      company: "Minesense Technologies Limited"
+    - title: "Intermediate Electrical Engineer"
+      company: "MINESENSE TECHNOLOGIES LIMITED"
       duration: "Aug 2022 - Till date"
       
     - title: "Product Validation Engineer"
