@@ -85,6 +85,7 @@ skillset:
   items:
     - university: "EPlan"
     - university: "AutoCAD Electrical"   
+    - university: "ETap"
     - university: "MathCAD"
     - university: "MATLAB"
     - university: "Simulink"
@@ -105,13 +106,15 @@ expertise:
   enable: true
   title: "Engineering Skillset"
   items:
+    - university: "Schematics Design"   
+    - university: "Wiring Harness 3D Modelling"
+    - university: "Wiring Harness 2D Nailboard Drafting"
     - university: "Electrical Machines"   
     - university: "Components Selection"
     - university: "Variable Frequency Drives"
     - university: "Cable Sizing"
     - university: "Lighting Design"   
     - university: "Electrical Circuit Design"
-    - university: "Wiring Harness Design"
     - university: "VA/VE"
     - university: "BOM Creation"   
     - university: "Product Analysis & Development"     
