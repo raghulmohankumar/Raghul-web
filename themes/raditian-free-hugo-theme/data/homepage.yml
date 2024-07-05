@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "An active Electrical engineer with 10 years of extensive practical and academic experience in a competitive and international context. A collaborative communicator focused on building relationships across business lines. As a recent update, I started taking the challenges in the mining industry through my new role as Intermediate Electrical Engineer in Minesense Technologies Ltd. I hold the Engineer-in-training (EIT) licensure from the Association of Professional Engineers and Geo-scientists of Saskatchewan (APEGS)"
+  description: "An active Electrical engineer with 12 years of extensive practical and academic experience in a competitive and international context. A collaborative communicator focused on building relationships across business lines. As a recent update, I started taking the challenges in the mining industry through my new role as Intermediate Electrical Engineer in Minesense Technologies Ltd. I hold the Professional Engineer (P.Eng.) licensure from the Engineers and Geoscientists British Columbia (EGBC)"
   
   image:
     x: "img/showcase/showcase.png"
@@ -83,7 +83,7 @@ skillset:
   enable: true
   title: "Software Skillset"
   items:
-    - university: "EPlan"
+    - university: "EPlan P8 and Harness ProD"
     - university: "AutoCAD Electrical"   
     - university: "ETap"
     - university: "MathCAD"
@@ -144,7 +144,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/raghul-mohankumar-eit-51811763/"
+    URL: "https://www.linkedin.com/in/raghul-mohankumar-p-eng-51811763/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My CV"
