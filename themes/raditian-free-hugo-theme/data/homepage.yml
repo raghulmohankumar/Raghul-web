@@ -3,12 +3,8 @@ showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "Welcome to my professional portfolio. I am an accomplished Electrical Engineer with over a decade of diverse experience across various engineering domains, including infrastructure, mining, process plants, and cutting-edge technology development. My career is marked by a blend of technical expertise, strategic project management, and a relentless pursuit of engineering excellence. As a recent update, I started taking the challenges in the mining industry through my new role as Intermediate Electrical Engineer in Minesense Technologies Ltd. I hold the Professional Engineering (P.Eng) licensure from the Engineers and Geoscientists British Columbia (EGBC)"
+  description: "An active Electrical engineer with 10 years of extensive practical and academic experience in a competitive and international context. A collaborative communicator focused on building relationships across business lines. As a recent update, I started taking the challenges in the mining industry through my new role as Intermediate Electrical Engineer in Minesense Technologies Ltd. I hold the Engineer-in-training (EIT) licensure from the Association of Professional Engineers and Geo-scientists of Saskatchewan (APEGS)"
   
-  </p>
-  <p class="lead" align="justify" style = "text-indent:1cm">
-   My area of focus lies in Wiring Harness, Electrical Machines, Drives, Circuit Design, New Product Development, Product Validation, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing, validating and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals. All-in-all, life has been good. I hope life has been as good for all of you.
-   
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcasew@2x.png"
@@ -56,31 +52,11 @@ about:
   enable: true
   title: "Who am I?"
   content: <p class="lead" align="justify" style = "text-indent:1cm">
-        I am an electrical engineer with a Master's Degree in the stream of Electrical Engineering in Canada. I am currently serving as an Intermediate Electrical Engineer at MineSense Technologies Limited, where I specialize in designing and specifying electrical and control system components and circuits. My role involves troubleshooting complex issues, collaborating with vendors to ensure precision manufacturing, and developing validation tests at both system and sub-system levels. I also have a strong background in generating detailed design documentation and ensuring compliance with industry standards. 
-    
+        I am an electrical engineer with a Master Degree in the stream of Electrical Engineering in Canada. I work as an intermediate electrical engineer in Vancouver, BC. The designing skills have been enriched through EPlan software for developing new products. All-in-all, life has been good. I hope life has been as good for all of you.
     </p>
     <p class="lead" align="justify" style = "text-indent:1cm">
-        Prior to my current position, I worked as a Product Engineer, I honed my skills in managing product test specifications for x-ray CT products and establishing test strategies to verify sub-product requirements. I actively participated in design reviews and customer meetings, ensuring the seamless integration of electrical and mechanical components.
-    
+        My area of focus lies in Wiring Harness, Electrical Machines, Drives, Circuit Design, New Product Development, Product Validation, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing, validating and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
     </p>
-    <p class="lead" align="justify" style = "text-indent:1cm">   
-        As a Research Assistant, contributing to the design and modeling of thermal sensing systems for a university-based Cube Satellite project. My role involved component selection, engineering calculations, and supporting the development of innovative instrumentation.
-         
-    </p>
-    <p class="lead" align="justify" style = "text-indent:1cm">       
-        My tenure as a Senior Electrical Engineer was marked by my ability to execute engineering change requests, perform impact assessments, and drive change management plans for prototyping and production. I led cross-functional teams, ensuring compliance with regulatory standards and implementing quality improvements based on field feedback.
-
-    </p>
-    <p class="lead" align="justify" style = "text-indent:1cm">
-        During my time as an Electrical Engineer, I developed comprehensive electrification designs, performed component selection, and created detailed documentation for various modules. My expertise extends to prototyping, piloting, and modernizing electrical systems to enhance performance and energy efficiency. I also excelled in supplier management, conducting root cause analyses, and supporting regulatory testing.
-    
-    </p>
-    <p class="lead" align="justify" style = "text-indent:1cm">
-        Beginning my career as an Engineer, I focused on the validation and verification of system prototypes, ensuring reliability and usability of embedded devices. My work involved rigorous testing and performance optimization, contributing to the development of high-quality Motorola products.
-
-    </p>
-    <p class="lead" align="justify" style = "text-indent:1cm">    
-        Throughout my career, I have demonstrated a commitment to continuous learning, professional growth, and the application of best practices in engineering. I am dedicated to driving innovation, improving system efficiencies, and delivering exceptional results in every project I undertake.
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -107,7 +83,7 @@ skillset:
   enable: true
   title: "Software Skillset"
   items:
-    - university: "EPlan P8, Harness ProD"
+    - university: "EPlan"
     - university: "AutoCAD Electrical"   
     - university: "ETap"
     - university: "MathCAD"
@@ -164,7 +140,7 @@ excellence:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 12 years of extensive product design, development and management experience with companies in a competitive and international context. The experience also includes analytical and professional specialization in new product development and engineering change management related to electrical architectures. I design, develop and manage products to help businesses and improve people's lives."
+  description: "Over 9 years of extensive product design, development and management experience with companies in a competitive and international context. The experience also includes analytical and professional specialization in new product development and engineering change management related to electrical architectures. I design, develop and manage products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
