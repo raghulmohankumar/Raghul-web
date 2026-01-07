@@ -58,10 +58,10 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of New Brunswick"
+    - name: "University of New Brunswick"
       year: "2021"
       degree: "Master of Engineering (M.Eng), Electrical Engineering"
-    - university: "Anna University"
+    - name: "Anna University"
       year: "2012"
       degree: "Bachelor of Engineering (B.E), Electrical and Electronics Engineering"
 
@@ -72,22 +72,22 @@ skillset:
   enable: true
   title: "Software Skillset"
   items:
-    - university: "EPlan P8 and Harness ProD"
-    - university: "AutoCAD Electrical"
-    - university: "ETAP"
-    - university: "MathCAD"
-    - university: "MATLAB"
-    - university: "Simulink"
-    - university: "R Programming"
-    - university: "Microsoft Office"
-    - university: "SAP"
-    - university: "VariPDM"
-    - university: "VariClient"
-    - university: "Vertex ED19"
-    - university: "OrCAD Capture"
-    - university: "PCB Editor & Pspice"
-    - university: "EngCalc"
-    - university: "Source Insight"
+    - name: "EPlan P8 and Harness ProD"
+    - name: "AutoCAD Electrical"
+    - name: "ETAP"
+    - name: "MathCAD"
+    - name: "MATLAB"
+    - name: "Simulink"
+    - name: "R Programming"
+    - name: "Microsoft Office"
+    - name: "SAP"
+    - name: "VariPDM"
+    - name: "VariClient"
+    - name: "Vertex ED19"
+    - name: "OrCAD Capture"
+    - name: "PCB Editor & Pspice"
+    - name: "EngCalc"
+    - name: "Source Insight"
 
 # ---------------------------------------------------
 # ENGINEERING EXPERTISE
@@ -96,24 +96,24 @@ expertise:
   enable: true
   title: "Engineering Skillset"
   items:
-    - university: "Schematics Design"
-    - university: "Wiring Harness 3D Modelling"
-    - university: "Wiring Harness 2D Nailboard Drafting"
-    - university: "Electrical Machines"
-    - university: "Components Selection"
-    - university: "Variable Frequency Drives"
-    - university: "Cable Sizing"
-    - university: "Lighting Design"
-    - university: "Electrical Circuit Design"
-    - university: "VA/VE"
-    - university: "BOM Creation"
-    - university: "Product Analysis & Development"
-    - university: "Failure Analysis"
-    - university: "Risk Analysis"
-    - university: "Hardware Testing"
-    - university: "FRACAS & DFMEA"
-    - university: "Supplier Selection & Follow-up"
-    - university: "Product Life-cycle Management"
+    - name: "Schematics Design"
+    - name: "Wiring Harness 3D Modelling"
+    - name: "Wiring Harness 2D Nailboard Drafting"
+    - name: "Electrical Machines"
+    - name: "Components Selection"
+    - name: "Variable Frequency Drives"
+    - name: "Cable Sizing"
+    - name: "Lighting Design"
+    - name: "Electrical Circuit Design"
+    - name: "VA/VE"
+    - name: "BOM Creation"
+    - name: "Product Analysis & Development"
+    - name: "Failure Analysis"
+    - name: "Risk Analysis"
+    - name: "Hardware Testing"
+    - name: "FRACAS & DFMEA"
+    - name: "Supplier Selection & Follow-up"
+    - name: "Product Life-cycle Management"
 
 # ---------------------------------------------------
 # ACHIEVEMENTS
@@ -122,9 +122,9 @@ excellence:
   enable: true
   title: "Achievements"
   items:
-    - university: "Best Project Award"
-    - university: "Innohack Finalist"
-    - university: "Extra Miler Award"
+    - name: "Best Project Award"
+    - name: "Innohack Finalist"
+    - name: "Extra Miler Award"
 
 # ---------------------------------------------------
 # EXPERIENCE
@@ -139,10 +139,10 @@ experience:
   resume_versions:
     canada:
       label: "Download Resume (Canada)"
-      file: "/resumes/Raghul_Mohankumar_Resume_Canada.pdf"
+      file: "/assets/resumes/Raghul_Mohankumar_Resume_Canada.pdf"
     usa:
       label: "Download Resume (USA)"
-      file: "/resumes/Raghul_Mohankumar_Resume_USA.pdf"
+      file: "/assets/resumes/Raghul_Mohankumar_Resume_USA.pdf"
 
   button:
     icon: "icon-linkedin-fill"
