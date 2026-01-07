@@ -1,0 +1,171 @@
+{{ define "main" }}
+
+<!-- ---------------------------------------------------
+     SHOWCASE
+--------------------------------------------------- -->
+<section id="showcase" class="section showcase">
+  <div class="container text-center">
+    <h1>{{ .Site.Params.showcase.title }}</h1>
+    <h3>{{ .Site.Params.showcase.subtitle }}</h3>
+    <p>{{ .Site.Params.showcase.description }}</p>
+    <img src="{{ .Site.Params.showcase.image.x }}" alt="Showcase Image">
+    <div class="social-links mt-3">
+      {{ range .Site.Params.showcase.socialLinks }}
+        <a href="{{ .URL }}" target="_blank"><i class="icon {{ .icon }}"></i></a>
+      {{ end }}
+    </div>
+    <a href="{{ .Site.Params.showcase.button.URL }}" class="btn btn-primary mt-3">
+      <i class="icon {{ .Site.Params.showcase.button.icon }}"></i>
+      {{ .Site.Params.showcase.button.btnText }}
+    </a>
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     ABOUT
+--------------------------------------------------- -->
+<section id="about" class="section about">
+  <div class="container">
+    <h2>{{ .Site.Params.about.title }}</h2>
+    {{ .Site.Params.about.content | safeHTML }}
+    <img src="{{ .Site.Params.about.image.x }}" alt="About Image" class="mt-3">
+    <a href="{{ .Site.Params.about.button.URL }}" class="btn btn-secondary mt-3">
+      <i class="icon {{ .Site.Params.about.button.icon }}"></i>
+      {{ .Site.Params.about.button.btnText }}
+    </a>
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     EDUCATION
+--------------------------------------------------- -->
+<section id="education" class="section education">
+  <div class="container">
+    <h2>{{ .Site.Params.education.title }}</h2>
+    <ul>
+      {{ range .Site.Params.education.items }}
+        <li>
+          <strong>{{ .degree }}</strong>, {{ .university }} ({{ .year }})
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     SOFTWARE SKILLS
+--------------------------------------------------- -->
+<section id="skills" class="section skills">
+  <div class="container">
+    <h2>{{ .Site.Params.skillset.title }}</h2>
+    <ul class="skills-list">
+      {{ range .Site.Params.skillset.items }}
+        <li>{{ .university }}</li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     ENGINEERING EXPERTISE
+--------------------------------------------------- -->
+<section id="expertise" class="section expertise">
+  <div class="container">
+    <h2>{{ .Site.Params.expertise.title }}</h2>
+    <ul class="expertise-list">
+      {{ range .Site.Params.expertise.items }}
+        <li>{{ .university }}</li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     ACHIEVEMENTS
+--------------------------------------------------- -->
+<section id="achievements" class="section achievements">
+  <div class="container">
+    <h2>{{ .Site.Params.excellence.title }}</h2>
+    <ul>
+      {{ range .Site.Params.excellence.items }}
+        <li>{{ .university }}</li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     EXPERIENCE
+--------------------------------------------------- -->
+<section id="experience" class="section experience">
+  <div class="container">
+    <h2>{{ .Site.Params.experience.title }}</h2>
+    {{ range .Site.Params.experience.roles }}
+      <div class="exp-card mb-4">
+        <h4>{{ .title }} — {{ .company }}</h4>
+        <span>{{ .duration }} {{ if .location }}({{ .location }}){{ end }}</span>
+        <ul>
+          {{ range .responsibilities }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ if .metrics }}
+          <strong>Key Achievements:</strong>
+          <ul>
+            {{ range .metrics }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     CASE STUDIES
+--------------------------------------------------- -->
+<section id="case-studies" class="section case-studies">
+  <div class="container">
+    <h2>{{ .Site.Params.case_studies.title }}</h2>
+    {{ range .Site.Params.case_studies.items }}
+      <div class="case-card mb-4">
+        <h5>{{ .title }} ({{ .company }})</h5>
+        <p>{{ .context }}</p>
+        <strong>Contributions:</strong>
+        <ul>
+          {{ range .contributions }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        <strong>Outcome:</strong>
+        <ul>
+          {{ range .outcome }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+<!-- ---------------------------------------------------
+     CONTACT
+--------------------------------------------------- -->
+<section id="contact" class="section contact">
+  <div class="container">
+    <h2>{{ .Site.Params.contact.title }}</h2>
+    <form action="{{ .Site.Params.contact.form.action }}" method="POST">
+      <input type="text" name="name" placeholder="{{ .Site.Params.contact.form.full_name }}" required>
+      <input type="email" name="email" placeholder="{{ .Site.Params.contact.form.email }}" required>
+      <textarea name="message" placeholder="{{ .Site.Params.contact.form.message }}" required></textarea>
+      <button type="submit" class="btn btn-primary">
+        <i class="icon {{ .Site.Params.contact.button.icon }}"></i>
+        {{ .Site.Params.contact.button.btnText }}
+      </button>
+    </form>
+    <p class="mt-3">{{ .Site.Params.contact.email.email | safeHTML }}</p>
+  </div>
+</section>
+
+{{ end }}
