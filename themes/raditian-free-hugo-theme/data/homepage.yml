@@ -1,277 +1,252 @@
-# showcase
+# ---------------------------------------------------
+# SHOWCASE
+# ---------------------------------------------------
 showcase:
   enable: true
   title: "Hello, I’m Raghul."
   subtitle: "Electrical Engineer"
-  description: "An active Electrical engineer with 12 years of extensive practical and academic experience in a competitive and international context. A collaborative communicator focused on building relationships across business lines. As a recent update, I started taking the challenges in the mining industry through my new role as Intermediate Electrical Engineer in Minesense Technologies Ltd. I hold the Professional Engineer (P.Eng.) licensure from the Engineers and Geoscientists British Columbia (EGBC)"
-  
+  description: |
+    A licensed Professional Engineer (P.Eng.) with over 12 years of experience designing and managing electrical systems across mining, elevator, and semiconductor industries. 
+    I specialize in control systems, wiring harness design, product lifecycle management, and system validation, bringing complex ideas from concept to reliable, real-world solutions.
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcasew@2x.png"
   imageMobile:
     x: "img/showcase/showcase-mobile.jpg"
-
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
     URL: "mailto:raghulmohankumar@gmail.com"
-
   socialLinks:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/in/raghul-mohankumar-p-eng-51811763/"
-
     - icon: "github"
       URL: "https://github.com/raghulmohankumar"
-
     - icon: "twitter"
       URL: "https://twitter.com/eee_rahulrahul"
-
-#    - icon: "dribbble"
-#     URL: "https://dribbble.com/radity"
-
-#    - icon: "behance"
-#      URL: "https://www.behance.net/radity-digital"
-
-#    - icon: "youtube"
-#     URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
     - icon: "instagram"
       URL: "https://www.instagram.com/rahulmohankumar/"
-
     - icon: "facebook"
       URL: "https://www.facebook.com/rahul.mohan.54"
 
-#    - icon: "codepen"
-#      URL: "#"
-
-#    - icon: "yelp"
-#      URL: "https://www.yelp.com/"
-
-# about
+# ---------------------------------------------------
+# ABOUT
+# ---------------------------------------------------
 about:
   enable: true
   title: "Who am I?"
-  content: <p class="lead" align="justify" style = "text-indent:1cm">
-        I am an electrical engineer with a Master Degree in the stream of Electrical Engineering in Canada. I work as an intermediate electrical engineer in Vancouver, BC. The designing skills have been enriched through EPlan software for developing new products. All-in-all, life has been good. I hope life has been as good for all of you.
+  content: |
+    <p class="lead" align="justify" style="text-indent:1cm">
+    I thrive at the intersection of innovation, precision, and collaboration—whether leading cross-functional projects, mentoring junior engineers, or optimizing electrical systems for efficiency and safety. Skilled in tools like EPlan, AutoCAD Electrical, ETAP, MATLAB/Simulink, I turn designs into practical, manufacturable, and high-quality products.
     </p>
-    <p class="lead" align="justify" style = "text-indent:1cm">
-        My area of focus lies in Wiring Harness, Electrical Machines, Drives, Circuit Design, New Product Development, Product Validation, Product Management and Components selection, as well as co-ordinating with design & front-end teams. I enjoy designing, developing, validating and managing electrical products as much as talking with stakeholders to iterate and improve the experiences that reach business goals.
+    <p class="lead" align="justify" style="text-indent:1cm">
+    Every project I touch is an opportunity to solve problems, improve processes, and deliver tangible results—from prototyping control panels for mining equipment to validating semiconductor products or optimizing elevator electrical systems. 
+    My goal is to create solutions that are robust, reliable, and ready for the real world.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/raghul-mohankumar-51811763/"
   image:
-    x:    "img/who-am-i/logo.png"
+    x: "img/who-am-i/logo.png"
     _2x: "img/who-am-i/logo.png"
 
-# education
+# ---------------------------------------------------
+# EDUCATION
+# ---------------------------------------------------
 education:
   enable: true
   title: "Education"
   items:
     - university: "University of New Brunswick"
-      year: "2021-2021"
-      degree: "Master of Engineering(M.Eng), Electrical Engineering"
-
+      year: "2021"
+      degree: "Master of Engineering (M.Eng), Electrical Engineering"
     - university: "Anna University"
-      year: "2008-2012"
+      year: "2012"
       degree: "Bachelor of Engineering (B.E), Electrical and Electronics Engineering"
 
-#skillset
+# ---------------------------------------------------
+# SOFTWARE SKILLS
+# ---------------------------------------------------
 skillset:
   enable: true
   title: "Software Skillset"
   items:
-    - university: "EPlan P8 and Harness ProD"
-    - university: "AutoCAD Electrical"   
-    - university: "ETap"
-    - university: "MathCAD"
-    - university: "MATLAB"
-    - university: "Simulink"
-    - university: "R Programming"   
-    - university: "Microsoft Office"
-    - university: "SAP"
-    - university: "VariPDM"  
-    - university: "VariClient"  
-    - university: "Vertex ED19"  
-    - university: "OrCAD Capture"   
-    - university: "PCB Editor & Pspice"
-    - university: "EngCalc"
-#   - university: "Saber RD"   
-    - university: "Source Insight"
-    
-#expertise
+    - "EPlan P8 and Harness ProD"
+    - "AutoCAD Electrical"
+    - "ETAP"
+    - "MathCAD"
+    - "MATLAB"
+    - "Simulink"
+    - "R Programming"
+    - "Microsoft Office"
+    - "SAP"
+    - "VariPDM"
+    - "VariClient"
+    - "Vertex ED19"
+    - "OrCAD Capture"
+    - "PCB Editor & Pspice"
+    - "EngCalc"
+    - "Source Insight"
+
+# ---------------------------------------------------
+# ENGINEERING EXPERTISE
+# ---------------------------------------------------
 expertise:
   enable: true
   title: "Engineering Skillset"
   items:
-    - university: "Schematics Design"   
-    - university: "Wiring Harness 3D Modelling"
-    - university: "Wiring Harness 2D Nailboard Drafting"
-    - university: "Electrical Machines"   
-    - university: "Components Selection"
-    - university: "Variable Frequency Drives"
-    - university: "Cable Sizing"
-    - university: "Lighting Design"   
-    - university: "Electrical Circuit Design"
-    - university: "VA/VE"
-    - university: "BOM Creation"   
-    - university: "Product Analysis & Development"     
-    - university: "Failure Analysis" 
-    - university: "Risk Analysis"
-    - university: "Hardware Testing"
-    - university: "FRACAS & DFMEA"   
-    - university: "Supplier Selection & Follow-up"
-    - university: "Product Life-cycle management"
-    
-#excellence
+    - "Schematics Design"
+    - "Wiring Harness 3D Modelling"
+    - "Wiring Harness 2D Nailboard Drafting"
+    - "Electrical Machines"
+    - "Components Selection"
+    - "Variable Frequency Drives"
+    - "Cable Sizing"
+    - "Lighting Design"
+    - "Electrical Circuit Design"
+    - "VA/VE"
+    - "BOM Creation"
+    - "Product Analysis & Development"
+    - "Failure Analysis"
+    - "Risk Analysis"
+    - "Hardware Testing"
+    - "FRACAS & DFMEA"
+    - "Supplier Selection & Follow-up"
+    - "Product Life-cycle Management"
+
+# ---------------------------------------------------
+# ACHIEVEMENTS
+# ---------------------------------------------------
 excellence:
   enable: true
   title: "Achievements"
   items:
-    - university: "Best Project Award"   
-    - university: "Innohack Finalist"
-    - university: "Extra Miler Award"
-    - university: "Data Visualization Poster Design - Runner Up"
-  
-    
-# experience
+    - "Best Project Award"
+    - "Innohack Finalist"
+    - "Extra Miler Award"
+
+# ---------------------------------------------------
+# EXPERIENCE
+# ---------------------------------------------------
 experience:
   enable: true
   title: "Experience"
-  description: "Over 9 years of extensive product design, development and management experience with companies in a competitive and international context. The experience also includes analytical and professional specialization in new product development and engineering change management related to electrical architectures. I design, develop and manage products to help businesses and improve people's lives."
+  description: |
+    Electrical Engineer with 12+ years of experience in electrical system design, product development, validation, and lifecycle management across mining, industrial automation, medical imaging, and embedded systems domains.
+    Experienced working in regulated environments with strong emphasis on safety, compliance, manufacturability, and cross-functional collaboration.
+
+  resume_versions:
+    canada:
+      label: "Download Resume (Canada)"
+      file: "/assets/resumes/Raghul_Mohankumar_Resume_Canada.pdf"
+    usa:
+      label: "Download Resume (USA)"
+      file: "/assets/resumes/Raghul_Mohankumar_Resume_USA.pdf"
+
   button:
     icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/raghul-mohankumar-p-eng-51811763/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My CV"
-    URL: "resume.pdf"
+    btnText: "LinkedIn"
+    URL: "https://www.linkedin.com/in/raghul-mohankumar-51811763/"
 
-  items:
+  roles:
     - title: "Intermediate Electrical Engineer"
-      company: "MINESENSE TECHNOLOGIES LIMITED"
-      duration: "Aug 2022 - Till date"
-      
+      company: "MineSense Technologies Ltd"
+      location: "Canada"
+      duration: "Aug 2022 – Present"
+      responsibilities:
+        - "Led engineering change management (ECM) activities for new electrical modules."
+        - "Designed control panels, UPS systems, PLC architectures, switchgear, motors, and safety circuits using EPLAN and AutoCAD Electrical."
+        - "Developed wiring harnesses including schematics, nailboards, wire lists, BOMs, and first article verification."
+        - "Conducted risk assessments and mitigation planning to improve system reliability."
+        - "Supported PLC configuration, electrical testing, troubleshooting, and validation."
+        - "Collaborated with manufacturing, supply chain, firmware, and mechanical teams to ensure production readiness."
+      metrics:
+        - "Contributed to improved system robustness and manufacturability."
+
     - title: "Product Validation Engineer"
-      company: "REDLEN TECHNOLOGIES INC"
-      duration: "Feb 2022 - Jun 2022"
-    
-    - title: "Research Assitant (Work - Study)"
-      company: "THE UNIVERSITY OF NEW BRUNSWICK"
-      duration: "Oct 2021 - Dec 2021"
-      
-    - title: "Sr. Electrical Engineer"
-      company: "KONE"
-      duration: "Oct 2018 - Feb 2021"
+      company: "Redlen Technologies Inc"
+      location: "Canada"
+      duration: "Feb 2022 – Jun 2022"
+      responsibilities:
+        - "Developed validation plans, test procedures, and reports aligned with customer requirements."
+        - "Executed verification and validation testing to improve product reliability."
+        - "Performed root cause analysis on field-returned units and supported corrective actions."
+        - "Developed data analysis and visualization tools for engineering decision-making."
+      metrics:
+        - "Improved validation coverage and early issue detection."
+
+    - title: "Research Assistant (Work-Study)"
+      company: "University of New Brunswick"
+      location: "Canada"
+      duration: "Oct 2021 – Dec 2021"
+      responsibilities:
+        - "Designed and modeled thermal sensing systems for CubeSat wind imaging research."
+        - "Performed power electronics modeling and simulation using MATLAB and Simulink."
+        - "Supported system integration, component selection, and test setup activities."
+
+    - title: "Senior Electrical Engineer"
+      company: "KONE Corporation"
+      location: "Global"
+      duration: "Oct 2018 – Feb 2021"
+      responsibilities:
+        - "Led electrical engineering activities for new product development and modernization projects."
+        - "Managed engineering change requests (ECN) including cost, schedule, and scope analysis."
+        - "Conducted DFMEA, design reviews, and compliance assessments."
+        - "Mentored junior engineers and coordinated cross-functional teams."
+        - "Supported supplier development and cost optimization initiatives."
 
     - title: "Electrical Engineer"
-      company: "KONE"
-      duration: "Jul 2014 - Sep 2018"
+      company: "KONE Corporation"
+      location: "Global"
+      duration: "Jul 2014 – Sep 2018"
+      responsibilities:
+        - "Designed electrical schematics, wiring harnesses, and control systems."
+        - "Performed system studies including load flow, harmonics, short-circuit, and arc flash using ETAP."
+        - "Designed and validated emergency rescue and battery-backed systems."
+        - "Supported regulatory testing including EMI/EMC and HALT."
 
     - title: "Engineer"
-      company: "TATA ELXSI"
-      duration: "Jul 2012 - Jul 2014"
+      company: "Tata Elxsi Limited"
+      location: "India"
+      duration: "Jul 2012 – Jul 2014"
+      responsibilities:
+        - "Validated embedded system prototypes for HD PVR and enterprise devices."
+        - "Executed white-box and black-box testing on Windows CE and Android platforms."
+        - "Collaborated with development teams to improve system stability and usability."
 
-# Client & Work
-client_and_work:
-  title: "Clients & Works"
-  enable: false
-
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
-
-  works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
-      is_even: true
-
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
-
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
-      is_even: true
-
-# testimonial
-testimonial:
-  enable: false
-  title: "Testimonials"
+# ---------------------------------------------------
+# CASE STUDIES
+# ---------------------------------------------------
+case_studies:
+  enable: true
+  title: "Selected Case Studies"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
-      image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+    - title: "Electrical System Enhancement – Mining Sensor Platform"
+      company: "MineSense Technologies Ltd"
+      context: |
+        Integration of new electrical modules into an existing mining sensor platform while maintaining safety, reliability, and manufacturability.
+      contributions:
+        - "Led electrical change management through ECM processes"
+        - "Updated control panel schematics, wiring harnesses, and BOMs"
+        - "Supported risk assessment, validation, and documentation"
+      outcome:
+        - "Improved system robustness and production readiness."
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+    - title: "Electrical System Development & Modernization – Elevator Platforms"
+      company: "KONE Corporation"
+      context: |
+        Development and modernization of elevator electrical systems to support new features, regulatory compliance, and cost optimization.
+      contributions:
+        - "Designed electrical circuits, harnesses, and emergency systems."
+        - "Performed system-level electrical analysis using ETAP."
+        - "Led validation, supplier coordination, and field support."
+      outcome:
+        - "Delivered compliant, manufacturable, and reliable designs."
 
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
-
-# contact
+# ---------------------------------------------------
+# CONTACT
+# ---------------------------------------------------
 contact:
   enable: true
   title: "Contact"
@@ -280,20 +255,16 @@ contact:
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
- # phone:
- #   title: "Phone Number"
- #   number: "+1(506)897-3166"
   email:
     title: "Email"
     email: '<a href="mailto:raghulmohankumar@gmail.com">raghulmohankumar@gmail.com</a>'
- # address:
- #   title: "Address"
- #   address: "Suite - 2386, Azurite Crescent <br />Langford, British Columbia, V9B 0Z6"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
-# newsletter
+# ---------------------------------------------------
+# NEWSLETTER
+# ---------------------------------------------------
 newsletter:
   enable: false
   title: "Newsletter subscription"
