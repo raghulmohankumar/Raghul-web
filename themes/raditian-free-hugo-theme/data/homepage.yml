@@ -122,9 +122,9 @@ excellence:
   enable: true
   title: "Achievements"
   items:
-    - "Best Project Award"
-    - "Innohack Finalist"
-    - "Extra Miler Award"
+  - university: "Best Project Award"
+  - university: "Innohack Finalist"
+  - university: "Extra Miler Award"
 
 # ---------------------------------------------------
 # EXPERIENCE
